@@ -1,0 +1,29 @@
+PODS:
+  - HydraAsync (2.0.5)
+  - Katana (5.1.1):
+    - HydraAsync (< 3, >= 2.0.5)
+  - PinLayout (1.9.3)
+  - Tempura (6.2.0):
+    - Katana (< 6, >= 5.0)
+
+DEPENDENCIES:
+  - Katana
+  - PinLayout
+  - Tempura
+
+SPEC REPOS:
+  trunk:
+    - HydraAsync
+    - Katana
+    - PinLayout
+    - Tempura
+
+SPEC CHECKSUMS:
+  HydraAsync: 6b74390f143e7edfb8bd3c706262b67bbefc09df
+  Katana: c39f776bca8a525b74840a6b3dae604cfcc31fff
+  PinLayout: 4d8733121f8687edcc8f00c19bf1379d12808767
+  Tempura: d72a082ae9b4589c95ec45e40dfc31ec564ae9b9
+
+PODFILE CHECKSUM: ce4be21aa44af2bddc155fc7a6c66ad97c9d43ca
+
+COCOAPODS: 1.10.1
