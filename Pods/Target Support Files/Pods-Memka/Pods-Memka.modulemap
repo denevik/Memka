@@ -1,6 +1,0 @@
-framework module Pods_Memka {
-  umbrella header "Pods-Memka-umbrella.h"
-
-  export *
-  module * { export * }
-}
